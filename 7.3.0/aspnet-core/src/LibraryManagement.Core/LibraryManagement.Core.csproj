@@ -18,8 +18,9 @@
     <PackageReference Include="Abp.AutoMapper" Version="7.3.0" />
     <PackageReference Include="Abp.ZeroCore.EntityFrameworkCore" Version="7.3.0" />
     <PackageReference Include="Castle.Windsor.MsDependencyInjection" Version="3.4.0" />
+    <PackageReference Include="EPPlus" Version="6.2.4" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="MyCore\Annotations\" />
+    <Folder Include="MyCore\DataExport\ExcelTemplates\" />
   </ItemGroup>
 </Project>
